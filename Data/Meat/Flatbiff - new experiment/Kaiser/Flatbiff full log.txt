@@ -1,0 +1,198 @@
+Type	Date/Time	Description
+Info	8:27:22 10/20/2023	Cosmic Ray Filter set to True
+Info	8:27:22 10/20/2023	Intensity Correction set to True
+Info	8:27:22 10/20/2023	Initializing experiment (no templates)
+Info	8:27:22 10/20/2023	Instrument: Raman Device
+Info	8:27:22 10/20/2023	Configuration: Model Name: Rxn2PhAT-785, Serial Number: Rxn2PhAT-SN0063176, Probe Type: Phat, Configuration: PHATPROBE, Resampling Interval: 1 cm-1; Channel 1; Auto-Adjust Exposure: Disabled, Accumulations: 3, Exposure Time: 10 sec, Cosmic Ray Removal: True, Intensity Correction: True
+Info	8:27:24 10/20/2023	START OF EXPERIMENT (Relative time zero)
+Sample	8:31:38 10/20/2023	Sample 1 acquired at 00:04:14
+Annotation	8:31:38 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_withlamp_1
+Sample	8:32:22 10/20/2023	Sample 2 acquired at 00:04:58
+Annotation	8:32:22 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_withlamp_2
+Sample	8:33:10 10/20/2023	Sample 3 acquired at 00:05:46
+Annotation	8:33:10 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_withlamp_3
+Annotation	8:33:31 10/20/2023	Manually changed Exposure time to 5 seconds and Scans to 4.
+Sample	8:34:36 10/20/2023	Sample 4 acquired at 00:07:12
+Annotation	8:34:36 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_withlamp_1
+Sample	8:35:23 10/20/2023	Sample 5 acquired at 00:07:59
+Annotation	8:35:23 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_withlamp_2
+Sample	8:35:55 10/20/2023	Sample 6 acquired at 00:08:31
+Annotation	8:35:55 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_withlamp_3
+Annotation	8:36:18 10/20/2023	Manually changed Exposure time to 2 seconds and Scans to 5.
+Sample	8:37:02 10/20/2023	Sample 7 acquired at 00:09:38
+Annotation	8:37:02 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_withlamp_1
+Sample	8:37:37 10/20/2023	Sample 8 acquired at 00:10:13
+Annotation	8:37:37 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_withlamp_2
+Sample	8:38:01 10/20/2023	Sample 9 acquired at 00:10:37
+Annotation	8:38:01 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_withlamp_3
+Annotation	8:38:30 10/20/2023	Manually changed Exposure time to 10 seconds and Scans to 3.
+Sample	9:51:30 10/20/2023	Sample 10 acquired at 01:24:06
+Annotation	9:51:30 10/20/2023	F_Grov_01_Kai_a
+Sample	9:52:50 10/20/2023	Sample 11 acquired at 01:25:26
+Annotation	9:52:50 10/20/2023	F_Grov_01_Kai_b
+Sample	10:02:40 10/20/2023	Sample 12 acquired at 01:35:16
+Annotation	10:02:40 10/20/2023	F_Grov_02_Kai_a
+Sample	10:04:24 10/20/2023	Sample 13 acquired at 01:37:00
+Annotation	10:04:24 10/20/2023	F_Grov_02_Kai_b (discard)
+Sample	10:06:46 10/20/2023	Sample 14 acquired at 01:39:22
+Annotation	10:06:46 10/20/2023	F_Grov_02_Kai_b
+Sample	10:15:28 10/20/2023	Sample 15 acquired at 01:48:04
+Annotation	10:16:22 10/20/2023	Manually changed Exposure time to 10 seconds and Scans to 2.
+Annotation	10:16:27 10/20/2023	Manually changed Exposure time to 10 seconds and Scans to 3.
+Sample	10:17:32 10/20/2023	Sample 16 acquired at 01:50:08
+Annotation	10:17:32 10/20/2023	F_Grov_03_Kai_b (discard)
+Annotation	10:17:32 10/20/2023	F_Grov_03_Kai_b (discard)
+Annotation	10:22:04 10/20/2023	Manually changed Exposure time to 3 seconds and Scans to 3.
+Sample	10:23:50 10/20/2023	Sample 17 acquired at 01:56:26
+Annotation	10:23:50 10/20/2023	F_Grov_03_Kai_b (discard) nothing
+Annotation	10:24:15 10/20/2023	Manually changed Exposure time to 10 seconds and Scans to 3.
+Sample	10:25:59 10/20/2023	Sample 18 acquired at 01:58:35
+Annotation	10:25:59 10/20/2023	F_Grov_03_Kai_a
+Sample	10:27:32 10/20/2023	Sample 19 acquired at 02:00:08
+Annotation	10:27:32 10/20/2023	F_Grov_03_Kai_b
+Sample	10:47:11 10/20/2023	Sample 20 acquired at 02:19:47
+Annotation	10:47:11 10/20/2023	F_Grov_04_Kai_a
+Sample	10:50:14 10/20/2023	Sample 21 acquired at 02:22:50
+Annotation	10:50:14 10/20/2023	F_Grov_04_Kai_b
+Warning	10:57:05 10/20/2023	Sample 10/20/2023 10:57:05 is saturated.
+Sample	10:57:05 10/20/2023	Sample 22 acquired at 02:29:41
+Annotation	10:57:05 10/20/2023	F_Grov_05_Kai_a (discard)
+Info	10:58:25 10/20/2023	Sample 10/20/2023 10:58:25 is not saturated.
+Sample	10:58:25 10/20/2023	Sample 23 acquired at 02:31:01
+Annotation	10:58:25 10/20/2023	F_Grov_05_Kai_a
+Sample	11:00:17 10/20/2023	Sample 24 acquired at 02:32:53
+Annotation	11:00:17 10/20/2023	F_Grov_05_Kai_b
+Sample	11:08:10 10/20/2023	Sample 25 acquired at 02:40:46
+Annotation	11:08:10 10/20/2023	F_Grov_06_Kai_a
+Sample	11:09:17 10/20/2023	Sample 26 acquired at 02:41:53
+Annotation	11:09:17 10/20/2023	F_Grov_06_Kai_b
+Warning	11:16:40 10/20/2023	Sample 10/20/2023 11:16:40 is saturated.
+Sample	11:16:40 10/20/2023	Sample 27 acquired at 02:49:16
+Annotation	11:16:40 10/20/2023	F_Grov_07_Kai_a (discard)
+Info	11:17:41 10/20/2023	Sample 10/20/2023 11:17:41 is not saturated.
+Sample	11:17:41 10/20/2023	Sample 28 acquired at 02:50:17
+Annotation	11:17:41 10/20/2023	F_Grov_07_Kai_a
+Sample	11:19:13 10/20/2023	Sample 29 acquired at 02:51:49
+Annotation	11:19:13 10/20/2023	F_Grov_07_Kai_b
+Sample	11:27:27 10/20/2023	Sample 30 acquired at 03:00:03
+Annotation	11:27:27 10/20/2023	F_Grov_08_Kai_a
+Sample	11:28:40 10/20/2023	Sample 31 acquired at 03:01:16
+Annotation	11:28:40 10/20/2023	F_Grov_08_Kai_b
+Sample	11:35:38 10/20/2023	Sample 32 acquired at 03:08:14
+Annotation	11:35:38 10/20/2023	F_Grov_09_Kai_a
+Sample	11:36:41 10/20/2023	Sample 33 acquired at 03:09:17
+Annotation	11:36:41 10/20/2023	F_Grov_09_Kai_b
+Sample	11:44:22 10/20/2023	Sample 34 acquired at 03:16:58
+Annotation	11:44:22 10/20/2023	F_Grov_10_Kai_a
+Sample	11:45:44 10/20/2023	Sample 35 acquired at 03:18:20
+Annotation	11:45:44 10/20/2023	F_Grov_10_Kai_b
+Sample	12:28:08 10/20/2023	Sample 36 acquired at 04:00:44
+Annotation	12:28:08 10/20/2023	alufoil
+Sample	12:29:26 10/20/2023	Sample 37 acquired at 04:02:02
+Annotation	12:29:26 10/20/2023	F_Fin0_01_Kai_a
+Sample	12:30:30 10/20/2023	Sample 38 acquired at 04:03:06
+Annotation	12:30:30 10/20/2023	F_Fin0_01_Kai_b
+Sample	12:38:58 10/20/2023	Sample 39 acquired at 04:11:34
+Annotation	12:38:58 10/20/2023	F_Fin0_02_Kai_a
+Sample	12:40:17 10/20/2023	Sample 40 acquired at 04:12:53
+Annotation	12:40:17 10/20/2023	F_Fin0_02_Kai_b
+Sample	12:48:57 10/20/2023	Sample 41 acquired at 04:21:33
+Annotation	12:48:57 10/20/2023	F_Fin0_03_Kai_a
+Sample	12:49:57 10/20/2023	Sample 42 acquired at 04:22:33
+Annotation	12:49:57 10/20/2023	F_Fin0_03_Kai_b
+Sample	12:57:38 10/20/2023	Sample 43 acquired at 04:30:14
+Sample	12:59:02 10/20/2023	Sample 44 acquired at 04:31:38
+Annotation	12:59:02 10/20/2023	F_Fin0_04_Kai_a
+Sample	13:00:36 10/20/2023	Sample 45 acquired at 04:33:12
+Annotation	13:00:36 10/20/2023	F_Fin0_04_Kai_b
+Annotation	13:00:36 10/20/2023	F_Fin0_04_Kai_c
+Sample	13:03:24 10/20/2023	Sample 46 acquired at 04:36:00
+Annotation	13:03:24 10/20/2023	alufoil
+Sample	13:13:43 10/20/2023	Sample 47 acquired at 04:46:19
+Annotation	13:13:43 10/20/2023	F_Fin0_05_Kai_a
+Sample	13:15:11 10/20/2023	Sample 48 acquired at 04:47:47
+Annotation	13:15:11 10/20/2023	F_Fin0_05_Kai_b
+Sample	13:23:25 10/20/2023	Sample 49 acquired at 04:56:01
+Annotation	13:23:25 10/20/2023	F_Fin0_06_Kai_a
+Sample	13:24:51 10/20/2023	Sample 50 acquired at 04:57:27
+Annotation	13:24:51 10/20/2023	F_Fin0_06_Kai_b
+Sample	13:31:55 10/20/2023	Sample 51 acquired at 05:04:31
+Annotation	13:31:55 10/20/2023	F_Fin0_07_Kai_a
+Sample	13:32:42 10/20/2023	Sample 52 acquired at 05:05:18
+Annotation	13:32:42 10/20/2023	F_Fin0_07_Kai_b
+Sample	13:39:01 10/20/2023	Sample 53 acquired at 05:11:37
+Annotation	13:39:01 10/20/2023	F_Fin0_08_Kai_a
+Sample	13:40:20 10/20/2023	Sample 54 acquired at 05:12:56
+Annotation	13:40:20 10/20/2023	F_Fin0_08_Kai_b
+Sample	13:41:31 10/20/2023	Sample 55 acquired at 05:14:07
+Annotation	13:41:31 10/20/2023	alufoil
+Sample	13:47:46 10/20/2023	Sample 56 acquired at 05:20:22
+Annotation	13:47:46 10/20/2023	F_Fin0_09_Kai_a
+Sample	13:48:46 10/20/2023	Sample 57 acquired at 05:21:22
+Annotation	13:48:46 10/20/2023	F_Fin0_09_Kai_b
+Sample	13:55:41 10/20/2023	Sample 58 acquired at 05:28:17
+Annotation	13:55:41 10/20/2023	F_Fin0_10_Kai_a
+Sample	13:56:44 10/20/2023	Sample 59 acquired at 05:29:20
+Annotation	13:56:44 10/20/2023	F_Fin0_10_Kai_b
+Sample	14:23:33 10/20/2023	Sample 60 acquired at 05:56:09
+Annotation	14:23:33 10/20/2023	F_Hom0_01_Kai_a
+Sample	14:24:36 10/20/2023	Sample 61 acquired at 05:57:12
+Annotation	14:24:36 10/20/2023	F_Hom0_01_Kai_b
+Sample	14:33:58 10/20/2023	Sample 62 acquired at 06:06:34
+Annotation	14:33:58 10/20/2023	F_Hom0_02_Kai_a
+Sample	14:35:29 10/20/2023	Sample 63 acquired at 06:08:05
+Annotation	14:35:29 10/20/2023	F_Hom0_02_Kai_b
+Sample	14:41:30 10/20/2023	Sample 64 acquired at 06:14:06
+Annotation	14:41:30 10/20/2023	F_Hom0_03_Kai_a
+Sample	14:42:36 10/20/2023	Sample 65 acquired at 06:15:12
+Annotation	14:42:36 10/20/2023	F_Hom0_03_Kai_b
+Sample	14:45:01 10/20/2023	Sample 66 acquired at 06:17:37
+Annotation	14:45:01 10/20/2023	metalplate
+Sample	15:06:07 10/20/2023	Sample 67 acquired at 06:38:43
+Annotation	15:06:07 10/20/2023	F_Hom0_04_Kai_a
+Sample	15:07:21 10/20/2023	Sample 68 acquired at 06:39:57
+Annotation	15:07:21 10/20/2023	F_Hom0_04_Kai_b
+Sample	15:12:27 10/20/2023	Sample 69 acquired at 06:45:03
+Annotation	15:12:27 10/20/2023	F_Hom0_05_Kai_a
+Sample	15:13:29 10/20/2023	Sample 70 acquired at 06:46:05
+Annotation	15:13:29 10/20/2023	F_Hom0_05_Kai_b
+Sample	15:19:18 10/20/2023	Sample 71 acquired at 06:51:54
+Annotation	15:19:18 10/20/2023	F_Hom0_06_Kai_a
+Sample	15:20:15 10/20/2023	Sample 72 acquired at 06:52:51
+Annotation	15:20:15 10/20/2023	F_Hom0_06_Kai_b
+Sample	15:26:00 10/20/2023	Sample 73 acquired at 06:58:36
+Annotation	15:26:00 10/20/2023	F_Hom0_07_Kai_a
+Sample	15:27:02 10/20/2023	Sample 74 acquired at 06:59:38
+Annotation	15:27:02 10/20/2023	F_Hom0_07_Kai_b
+Sample	15:32:11 10/20/2023	Sample 75 acquired at 07:04:47
+Annotation	15:32:11 10/20/2023	F_Hom0_08_Kai_a
+Sample	15:33:32 10/20/2023	Sample 76 acquired at 07:06:08
+Annotation	15:33:32 10/20/2023	F_Hom0_08_Kai_b
+Sample	15:39:20 10/20/2023	Sample 77 acquired at 07:11:56
+Annotation	15:39:20 10/20/2023	F_Hom0_09_Kai_a
+Sample	15:40:27 10/20/2023	Sample 78 acquired at 07:13:03
+Annotation	15:40:27 10/20/2023	F_Hom0_09_Kai_b
+Sample	15:46:11 10/20/2023	Sample 79 acquired at 07:18:47
+Annotation	15:46:11 10/20/2023	F_Hom0_10_Kai_a
+Sample	15:47:09 10/20/2023	Sample 80 acquired at 07:19:45
+Annotation	15:47:09 10/20/2023	F_Hom0_10_Kai_b
+Sample	15:50:33 10/20/2023	Sample 81 acquired at 07:23:09
+Annotation	15:50:33 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_endofday_withlamp_1
+Sample	15:51:38 10/20/2023	Sample 82 acquired at 07:24:14
+Annotation	15:51:38 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_endofday_withlamp_2
+Sample	15:52:27 10/20/2023	Sample 83 acquired at 07:25:03
+Annotation	15:52:27 10/20/2023	Cyclo_clearside_3x10s_400mW_201023_endofday_withlamp_3
+Annotation	15:53:58 10/20/2023	Manually changed Exposure time to 5 seconds and Scans to 4.
+Sample	15:55:43 10/20/2023	Sample 84 acquired at 07:28:19
+Annotation	15:55:43 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_endofday_withlamp_1
+Sample	15:56:53 10/20/2023	Sample 85 acquired at 07:29:29
+Annotation	15:56:53 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_endofday_withlamp_2
+Sample	15:58:10 10/20/2023	Sample 86 acquired at 07:30:46
+Annotation	15:58:10 10/20/2023	Cyclo_clearside_4x05s_400mW_201023_endofday_withlamp_3
+Annotation	15:58:40 10/20/2023	Manually changed Exposure time to 2 seconds and Scans to 5.
+Sample	15:59:44 10/20/2023	Sample 87 acquired at 07:32:20
+Annotation	15:59:44 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_endofday_withlamp_1
+Sample	16:00:30 10/20/2023	Sample 88 acquired at 07:33:06
+Annotation	16:00:30 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_endofday_withlamp_2
+Sample	16:01:50 10/20/2023	Sample 89 acquired at 07:34:26
+Annotation	16:01:50 10/20/2023	Cyclo_clearside_5x02s_400mW_201023_endofday_withlamp_3
