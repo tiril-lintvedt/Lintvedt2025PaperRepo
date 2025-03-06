@@ -1,8 +1,5 @@
 % =========================================================================
-% PAPER // Raman and NIR spectroscopy: A discussion of calibration robustness 
-% for food quality measurements through two case studies
-%
-% Supplemental case: Meat storage time  
+% PAPER IV - NIR vs Raman robustness comparison - Meat oxygenation
 % =========================================================================
 %
 % ------------------------------------------------------------------------
@@ -295,6 +292,7 @@ scrsz = get(0,'ScreenSize');
 figure('Position',[50 50 scrsz(3)/2 scrsz(4)/2.5])  
 hold on
 for  i = 1:length(unique_id)
+    %Xsub = select_from_identifier(X, unique_id(i,:));
     [Fbslsub, ind] = select_from_identifier(F_baseline,12, unique_id(i,:));
     Fbslavgsub = saisir_mean(Fbslsub);
     ph = plot(hour(ind),Fbslavgsub.d,'o','Color', plot_colors(i,:));
@@ -309,18 +307,28 @@ xlim([-3 200])
 ylabel('Fluorescence indicator','FontSize',18)
 xlabel('Hours','FontSize',18)
 grid on
+set(gcf,'renderer','Painters')
+saveas(gcf,'C:\Users\Tiril Aurora\Documents\01 Nofima\MATLAB\NIR vs Raman robustness paper\Illustrations/MeatOxygenationFluorescencevsTimeday1','png')
+saveas(gcf,'C:\Users\Tiril Aurora\Documents\01 Nofima\MATLAB\NIR vs Raman robustness paper\Illustrations/MeatOxygenationFluorescencevsTimeday1','epsc')
+saveas(gcf,'C:\Users\Tiril Aurora\Documents\01 Nofima\MATLAB\NIR vs Raman robustness paper\Illustrations/MeatOxygenationFluorescencevsTimeday1','fig')
 
 
 
 %% FAT PREDICTION FOR DIFFERENT TIME GROUPS
 % -------------------------------------------------------------------------
 
-% Load dummy fat model from Meat case study
-load('Data\TotFatModelHomMM.mat')
+% Load previous model
+load('C:\Users\Tiril Aurora\Documents\01 Nofima\MATLAB\NIR vs Raman robustness paper\Data storage\TotFatModelHomMM.mat')
 
 B = TotFatModel.B;
 B = B(2:end); % Random, but need correspondance with reg coef - only initial check.
 b0 = TotFatModel.b0;
+
+wn = TotFatModel.v;
+
+X = X_prep_als_subsets{1};
+F = Fbaseline_subsets{1};
+
 
 % day 1, only:
 X  = select_from_identifier(X_prep_als_subsets{1},[19],'0');
@@ -332,13 +340,14 @@ samplid = '1';
 X  = select_from_identifier(X,13,samplid);
 F = select_from_identifier(F,13,samplid);
 
-% Predictions
+
 Ypred.d = b0 + X.d*B;
 Ypred.i = X.i;
 
 % Color by time
 hour = str2num(char(strrep(cellstr(X.i(:,18:20)),'e','')));
 minutes = 60.*hour + str2num(char(cellstr(X.i(:,22:23)))); 
+
 
 figure; hold on;
 for i = 1:length(Ypred.d)
@@ -350,4 +359,3 @@ xlabel('Minutes','FontSize',18)
 ylabel('Predicted fat %','FontSize',18)
 cb = color_by(F.d);
 title(cb, 'Fluorescence level')
-
