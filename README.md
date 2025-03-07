@@ -6,14 +6,15 @@ The Bechtold, B., Fletcher, P., Holden, S., Gorur-Shandilya, S., 2021. Violinplo
 Gussem, K. De, 2020. GSTools. MATLAB Central File Exchange. https://doi.org/https://www.mathworks.com/matlabcentral/fileexchange/9938-gstools 
 
 Some of the functions in the folder My_toolbox are also relying on the Matlab Statistics and Machine Learning Toolbox, although none of the scripts associated with this paper is based on that dependency.  Other resources, referenced in the author’s own code base My_toolbox package, includes
-NIPALS algorithm from:
 Bjork and Indahl 2017,  “Fast and stable partial least squares modelling: A benchmark study with theoretical comments”
 https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2898 
 
-Snippet from Westad and Martens for choice of optimal number of PLS components was used with adjustments inf the function “find_aopt”.
 Westad, F., Martens, H., 2000. Variable selection in Near infrared spectroscopy basead on significance testing in Partial least squares regression. J. Near Infrared Spectrosc. 8, 117–124. https://doi.org/10.1255/jnirs.271
 
-Asymmetric Least Squares for baseline correction of Raman spectra:
 Eilers, P.H.C., Boelens, H.F.M., 2005. Baseline correction with asymmetric least squares smoothing, Leiden University Medical Centre.
+
+
+
+
 
 
