@@ -2,11 +2,15 @@
 
 This code base contains Matlab functions and scripts that are the basis for the published article “Raman and NIR spectroscopy: A discussion of calibration robustness for food quality measurements through two case studies” by Lintvedt et.al, 2025. The purpose of the code base is to provide openness around the data analysis and facilitate reproducibility of results, as well as share data associated with the paper.
 The code consists of three separate main scripts for the two different case studies in the article as well as the supplementary experiment studied in the paper. The scripts are dependent on three other openly available Matlab packages/toolboxes, which are redistributed as a part of this code base. This includes:
+
 C.B.Y. Cordella, D. Bertrand, SAISIR: A new general chemometric toolbox, Trends in Analytical Chemistry 54 (2014) 75–82. http://dx.doi.org/10.1016/j.trac.2013.10.009. Available on request at http://www.chimiometrie.fr/saisir_webpage.html 
+
 The Bechtold, B., Fletcher, P., Holden, S., Gorur-Shandilya, S., 2021. Violinplot-Matlab: A Good Starting Point v0.1, Zenodo. https://doi.org/10.5281/zenodo.4559847  
+
 Gussem, K. De, 2020. GSTools. MATLAB Central File Exchange. https://doi.org/https://www.mathworks.com/matlabcentral/fileexchange/9938-gstools 
 
-Some of the functions in the folder My_toolbox are also relying on the Matlab Statistics and Machine Learning Toolbox, although none of the scripts associated with this paper is based on that dependency.  Other resources, referenced in the author’s own code base My_toolbox package, includes
+Some of the functions in the author’s own code collection My_toolbox are also relying on the Matlab Statistics and Machine Learning Toolbox, although none of the scripts associated with this paper is based on that dependency.  Other resources, referenced in the author’s own code base, includes:
+
 Bjork and Indahl 2017,  “Fast and stable partial least squares modelling: A benchmark study with theoretical comments”
 https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2898 
 
