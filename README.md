@@ -1,7 +1,7 @@
 **Overview**
 
 This code base contains Matlab functions and scripts that are the basis for the published article “Raman and NIR spectroscopy: A discussion of calibration robustness for food quality measurements through two case studies” by Lintvedt et.al, 2025. The purpose of the code base is to provide openness around the data analysis and facilitate reproducibility of results, as well as share data associated with the paper.
-The code consists of three separate main scripts for the two different case studies in the article as well as the supplementary experiment studied in the paper. The scripts are dependent on three other openly available Matlab packages/toolboxes, which are redistributed as a part of this code base. This includes:
+The code consists of three separate main scripts for the two different case studies in the article as well as the supplementary experiment studied in the paper. The scripts are dependent on three other openly available Matlab packages/toolboxes, which are redistributed as a part of this code base to allow the data analysis to be run directly after download. This includes:
 
 C.B.Y. Cordella, D. Bertrand, SAISIR: A new general chemometric toolbox, Trends in Analytical Chemistry 54 (2014) 75–82. http://dx.doi.org/10.1016/j.trac.2013.10.009. Available on request at http://www.chimiometrie.fr/saisir_webpage.html 
 
