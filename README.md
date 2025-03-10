@@ -11,7 +11,7 @@ Gussem, K. De, 2020. GSTools. MATLAB Central File Exchange. https://doi.org/http
 
 Some of the functions in the author’s own code collection My_toolbox are also relying on the Matlab Statistics and Machine Learning Toolbox, although none of the scripts associated with this paper is based on that dependency.  Other resources, referenced in the author’s own code base, includes:
 
-Bjork and Indahl 2017,  “Fast and stable partial least squares modelling: A benchmark study with theoretical comments”
+Bjork and Indahl, 2017,  “Fast and stable partial least squares modelling: A benchmark study with theoretical comments”
 https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.2898 
 
 Westad, F., Martens, H., 2000. Variable selection in Near infrared spectroscopy basead on significance testing in Partial least squares regression. J. Near Infrared Spectrosc. 8, 117–124. https://doi.org/10.1255/jnirs.271
@@ -22,6 +22,8 @@ Savitzky, A., Golay, M.J.E., 1964. Smoothing and Differentiation of Data by Simp
 
 Whitaker and Hayes, 2018. A Simple Algorithm for Despiking Raman Spectra. https://towardsdatascience.com/removing-spikes-from-raman-spectra-8a9fdda0ac22
 
+Robbins, M., 2023. BreakPlot. https://www.mathworks.com/matlabcentral/fileexchange/21864-breakplot, MATLAB Central File Exchange.
 
+Tran, T.N., Afanador, N.L., Buydens, L.M.C., Blanchet, L., Interpretation of variable importance in Partial Least Squares with Significance Multivariate Correlation (sMC), Chemometrics and Intelligent Laboratory Systems, Volume 138, 15 November 2014, Pages 153–160. http://dx.doi.org/10.1016/j.chemolab.2014.08.005 
 
 
