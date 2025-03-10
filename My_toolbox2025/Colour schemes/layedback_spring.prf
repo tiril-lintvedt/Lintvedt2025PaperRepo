@@ -1,0 +1,33 @@
+# layedback_spring - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.8.0.1359463 (R2020a) Update 1
+# Wed Apr 29 16:51:57 CEST 2020
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-16777216
+ColorsBackground=C-1
+Colors_M_Keywords=C-2534631
+Colors_M_Comments=C-14318220
+Colors_M_Strings=C-3394561
+Colors_M_UnterminatedStrings=C-16747843
+Colors_M_SystemCommands=C-8021760
+Colors_M_Errors=C-26317
+Colors_HTML_HTMLLinks=C-13343324
+Colors_M_Warnings=C-217282
+ColorsMLintAutoFixBackground=C-4538954
+Editor.VariableHighlighting.Color=C-3479320
+Editor.NonlocalVariableHighlighting.TextColor=C-11625978
+Editorhighlight-lines=C-1118484
+Editorhighlight-caret-row-boolean-color=C-2893873
+EditorRightTextLimitLineColor=C-7828859
+Color_CmdWinWarnings=C-217282
+Color_CmdWinErrors=C-1103575
