@@ -18,7 +18,9 @@ Westad, F., Martens, H., 2000. Variable selection in Near infrared spectroscopy 
 
 Eilers, P.H.C., Boelens, H.F.M., 2005. Baseline correction with asymmetric least squares smoothing, Leiden University Medical Centre.
 
+Savitzky, A., Golay, M.J.E., 1964. Smoothing and Differentiation of Data by Simplified Least Squares Procedures. Anal. Chem. 36, 1627–1639. https://doi.org/10.1021/ac60214a047
 
+Whitaker and Hayes, 2018. A Simple Algorithm for Despiking Raman Spectra. https://towardsdatascience.com/removing-spikes-from-raman-spectra-8a9fdda0ac22
 
 
 
