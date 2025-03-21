@@ -227,7 +227,7 @@ dpix =[660:664, 950:954, 1140:1144, 1584:1588, 1768:1800, 1980:1983, 1996:1999];
 [~,di] = min(abs(str2num(Xmm.v)-dpix)); % 1800
 Xmm = deletecol(Xmm,di);
 th = 15; % threshold for spike detection
-[Xmm, ~] = spikefix_whitaker_multi(Xmm,2,2,1,th,1); % double check this later
+[Xmm, ~] = spikefix_whitaker_multi(Xmm,2,1,th,1); % double check this later
 
 % Remove damaged pixels/spikes Kaiser
 dpix = [1768:1792]; 
@@ -235,7 +235,7 @@ dpix = [1768:1792];
 Xkaiser = deletecol(Xkaiser,di);
 XkaiserF =deletecol(XkaiserF,di);
 th = 45; % threshold for spike detection
-[Xkaiser, ~] = spikefix_whitaker_multi(Xkaiser,2,2,1,th,1); % double check this later
+[Xkaiser, ~] = spikefix_whitaker_multi(Xkaiser,2,1,th,1); % double check this later
 
 
 % NEW FLATBIFF DATA -------------------------------------------------------

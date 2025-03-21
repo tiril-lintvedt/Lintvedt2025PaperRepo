@@ -1,4 +1,4 @@
-function [Xfixed, spike_summary] = spikefix_whitaker_multi(X, m, d, w, threshold, plotit)
+function [Xfixed, spike_summary] = spikefix_whitaker_multi(X, d, w, threshold, plotit)
 %     Detect spikes based on the modified Z score, and removes the detected 
 %     spikes by interpolation. Whitaker and Hayes propose to make advantage 
 %     of the high intensity and small width of spikes and therefore use the 
@@ -27,7 +27,7 @@ if plotit
 end
 
 for ispec = 1:length(X.i)
-    [xfixed, spike_pos] = spikefix_whitaker(X.d(ispec,:), m, d, w,threshold,0);   % x, m, d, w, threshold, plotcheck
+    [xfixed, spike_pos] = spikefix_whitaker(X.d(ispec,:), d, w,threshold,0);   % x, m, d, w, threshold, plotcheck
     spike_summary.Xfixed(ispec,:) = xfixed; % Update adata matrix with corrected spectrum
     
     if (sum(spike_pos) ~= 0) && (plotit == 1)

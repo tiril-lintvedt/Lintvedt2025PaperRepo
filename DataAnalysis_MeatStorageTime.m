@@ -82,7 +82,7 @@ dpix =[660:664, 950:954, 1140:1144, 1584:1588, 1768:1800, 1980:1983, 1996:1999];
 [~,di] = min(abs(str2num(X.v)-dpix)); % 1800
 X = deletecol(X,di);
 th = 6.5; % threshold for spike detection
-[X, ~] = spikefix_whitaker_multi(X,2,2,1,th,1); % double check this later
+[X, ~] = spikefix_whitaker_multi(X,2,1,th,1); % double check this later
 
 
 

@@ -260,10 +260,10 @@ plot_NIR(str2num(Xmnir2022.v), Xmnir2022.d) ;
 % Run to check, but no spikes in these spectra.
 
 th = 20; % threshold for spike detection
-[Xkaiser2021, ~] = spikefix_whitaker_multi(Xkaiser2021,2,2,1,th,1); 
+[Xkaiser2021, ~] = spikefix_whitaker_multi(Xkaiser2021,2,1,th,1); 
 
 th = 20; % threshold for spike detection
-[Xkaiser2022, ~] = spikefix_whitaker_multi(Xkaiser2022,2,2,1,th,1); 
+[Xkaiser2022, ~] = spikefix_whitaker_multi(Xkaiser2022,2,1,th,1); 
 
 
 %% SMOOTHING RAMAN SPECTRA 

@@ -1,4 +1,4 @@
-function [x_fixed,spikes] = spikefix_whitaker(x, m, d, w, threshold, plotcheck)
+function [x_fixed,spikes] = spikefix_whitaker(x, d, w, threshold, plotcheck)
 % ------------------- Spike detection for Raman spectra -------------------  
 %     Detect spikes based on the modified Z score, and removes the detected 
 %     spikes by interpolation. Whitaker and Hayes propose to make advantage 
