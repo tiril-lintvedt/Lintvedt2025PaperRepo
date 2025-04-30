@@ -27,4 +27,9 @@ Robbins, M., 2023. BreakPlot. https://www.mathworks.com/matlabcentral/fileexchan
 Tran, T.N., Afanador, N.L., Buydens, L.M.C., Blanchet, L., Interpretation of variable importance in Partial Least Squares with Significance Multivariate Correlation (sMC), Chemometrics and Intelligent Laboratory Systems, Volume 138, 15 November 2014, Pages 153–160.   
 http://dx.doi.org/10.1016/j.chemolab.2014.08.005 
 
+Kennard, R. W., & Stone, L. A.,1969. Computer Aided Design of Experiments. Technometrics, 11(1), 137–148. https://doi.org/10.1080/00401706.1969.10490666
+
+Daszykowski, M., Walczak, B., Massart D.L. Representative subset selection. Analytica Chimica Acta, 468 (2002) 91-103. https://doi.org/10.1016/S0003-2670(02)00651-7
+
+
 
